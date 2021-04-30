@@ -4,7 +4,7 @@ Crystal Huang
 
 ## Abstract
 
-This project is a data science solution for New York City Department of Health to help restaurant inspectors efficiently identify restaurant health code violation by better understanding rodent sighting pattern in various neighborhoods in NYC. With the predictive model, restaurant inspectors can catch the same or more number of health code violation with less inspection conducted by better targeting city resources at what appear to be ratty-kittchen hotspots. 
+This project is a data science solution for New York City Department of Health to help restaurant inspectors efficiently identify restaurant health code violation by better understanding rodent sighting pattern in various neighborhoods in NYC. The project uses the NYC Restaurant Inspection data, NYC 311 Calls for rodent sighting reports, and NYC current restaurant data. With the predictive model, restaurant inspectors can catch the same or more number of health code violation with less inspection conducted by better targeting city resources at what appear to be ratty-kittchen hotspots. After preliminary analysis, in addition to visualizations, the Tableau interactive dashboard can be used as prototype of this project to identify the restaurants in high-risk area for rodent violations based on sightings pattern. 
 
 ## Design
 
